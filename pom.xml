@@ -3,5 +3,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.upshot.push.lib</groupId>
   <artifactId>UpshotPush</artifactId>
-  <version>1.0</version>
+  <version>4.0</version>
 </project>
